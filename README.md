@@ -19,7 +19,7 @@ Generates timed tests with adaptive difficulty and detailed solutions.
 
 ### Installation
 ```bash
-git clone https://github.com/drishlekh/AI-Powered-Aptitude-Test-Generation-App
+git clone https://github.com/Aayush1208/LLM-POWERED-APTITUDE-TEST-GENERATION-APP
 cd project_files
 pip install -r requirements.txt
 create a .env file and add your groq api key
